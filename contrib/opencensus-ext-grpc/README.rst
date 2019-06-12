@@ -1,10 +1,14 @@
 OpenCensus gRPC Integration
 ============================================================================
 
-|pypi|
+|pypi| |compat_check_pypi| |compat_check_github|
 
 .. |pypi| image:: https://badge.fury.io/py/opencensus-ext-grpc.svg
    :target: https://pypi.org/project/opencensus-ext-grpc/
+.. |compat_check_pypi| image:: https://python-compatibility-tools.appspot.com/one_badge_image?package=opencensus-ext-grpc
+   :target: https://python-compatibility-tools.appspot.com/one_badge_target?package=opencensus-ext-grpc
+.. |compat_check_github| image:: https://python-compatibility-tools.appspot.com/one_badge_image?package=git%2Bgit%3A//github.com/census-instrumentation/opencensus-python.git%23subdirectory%3Dopencensus-ext-grpc
+   :target: https://python-compatibility-tools.appspot.com/one_badge_target?package=git%2Bgit%3A//github.com/census-instrumentation/opencensus-python.git%23subdirectory%3Dopencensus-ext-grpc
 
 OpenCensus provides the implementation of interceptors for both the client side
 and server side to instrument the gRPC requests and responses. The client
