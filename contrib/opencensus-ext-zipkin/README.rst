@@ -1,10 +1,14 @@
 OpenCensus Zipkin Exporter
 ============================================================================
 
-|pypi|
+|pypi| |compat_check_pypi| |compat_check_github|
 
 .. |pypi| image:: https://badge.fury.io/py/opencensus-ext-zipkin.svg
    :target: https://pypi.org/project/opencensus-ext-zipkin/
+.. |compat_check_pypi| image:: https://python-compatibility-tools.appspot.com/one_badge_image?package=opencensus-ext-zipkin
+   :target: https://python-compatibility-tools.appspot.com/one_badge_target?package=opencensus-ext-zipkin
+.. |compat_check_github| image:: https://python-compatibility-tools.appspot.com/one_badge_image?package=git%2Bgit%3A//github.com/census-instrumentation/opencensus-python.git%23subdirectory%3Dopencensus-ext-zipkin
+   :target: https://python-compatibility-tools.appspot.com/one_badge_target?package=git%2Bgit%3A//github.com/census-instrumentation/opencensus-python.git%23subdirectory%3Dopencensus-ext-zipkin
 
 Installation
 ------------
